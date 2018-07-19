@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '主题测试'
-subtitle: '或许是最漂亮的Jekyll主题'
-date: 2017-04-18
+subtitle: '找不到内容了'
+date: 2017-04-20
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: jekyll 前端开发 设计
